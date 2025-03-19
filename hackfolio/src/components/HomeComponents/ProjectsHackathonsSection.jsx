@@ -15,9 +15,9 @@ const ProjectsHackathonsSection = () => {
         duration: 1.5,
         scrollTrigger: {
           trigger: ".animate-left", 
-          start: "top 80%",
+          start: "top 90%",
           end: "bottom 20%",
-          scrub: true,
+          //scrub: true,
         },
       }
     );
@@ -31,9 +31,9 @@ const ProjectsHackathonsSection = () => {
         duration: 1.5,
         scrollTrigger: {
           trigger: ".animate-right",
-          start: "top 80%",
+          start: "top 90%",
           end: "bottom 20%",
-          scrub: true,
+          // scrub: true,
         },
       }
     );
